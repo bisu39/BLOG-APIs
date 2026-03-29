@@ -21,6 +21,7 @@ A RESTful API for a blogging platform that allows users to create, read, update,
 
 # 📂 Project Structure
 
+```txt
 ├── src/
 │   ├── app.js           # Express app setup
 │   ├── config/
@@ -40,6 +41,7 @@ A RESTful API for a blogging platform that allows users to create, read, update,
 ├── package.json         # Dependencies and scripts
 ├── README.md            # Project documentation
 └── server.js            # Entry point
+```
 
 # ⚙️ Installation
 
