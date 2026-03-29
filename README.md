@@ -20,8 +20,7 @@ A RESTful API for a blogging platform that allows users to create, read, update,
 - Tools: Thunder Client 
 
 # 📂 Project Structure
-BLOG-APIs/
-│
+
 ├── src/
 │   ├── app.js           # Express app setup
 │   ├── config/
