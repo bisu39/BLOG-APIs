@@ -122,7 +122,7 @@ POST /posts
 # 🚀 Deployment
 
 - Project deployed in Railway
-- Online live access at: [blog-apis](blog-apis.up.railway.app)
+- Online live access at: [blog-apis](https://blog-apis.up.railway.app/)
 
 # 📈 Future Improvements
 
