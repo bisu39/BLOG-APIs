@@ -101,28 +101,28 @@ Authorization: Bearer <your_token>
 # ❌ Error Handling
 
 The API uses a centralized error handling middleware that returns consistent responses:
-
+```txt
 {
   "success": false,
   "message": "Error message",
   "stack": "Only in development"
 }
-
+```
 # 📬 Request Example
 
 POST /posts
-
+```txt
 {
   "title": "My First Blog",
   "content": "This is a long blog content...",
   "tags": ["tech", "node"],
   "category": "Programming"
 }
-
+```
 # 🚀 Deployment
 
 - Project deployed in Railway
-- Online live access at: [blog-apis](https://blog-apis.up.railway.app/)
+- Online access link: https://blog-apis.up.railway.app/
 
 # 📈 Future Improvements
 
