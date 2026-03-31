@@ -119,6 +119,11 @@ POST /posts
   "category": "Programming"
 }
 
+# 🚀 Deployment
+
+- Project deployed in Railway
+- Online live access at: [blog-apis](blog-apis.up.railway.app)
+
 # 📈 Future Improvements
 
 Frontend Implemenation

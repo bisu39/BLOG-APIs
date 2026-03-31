@@ -24,6 +24,7 @@ app.use('/', (req, res) => {
   });
 });
 
+
 // Implimenting error handler
 app.use(errorHandler)
 export default app;
