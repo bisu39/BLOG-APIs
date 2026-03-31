@@ -59,11 +59,11 @@ npm install
 - MongoDB running locally or cloud (MongoDB Atlas)
 
 ## 🔑 Environment Variables
-
+```txt
 PORT = <your port>
 MONGODB_URL = <your_mongodb_connection_string>
 ACCESS_TOKEN_SECRET= <your_secret_key>
-
+```
 # ▶️ Running the Server
     
 npm start
@@ -121,11 +121,10 @@ POST /posts
 
 # 📈 Future Improvements
 
+Frontend Implemenation
 Pagination
-Role-based access (Admin/User)
 Image upload (Cloud storage)
 Rate limiting & security enhancements
-API documentation with Swagger
 
 # 🤝 Contributing
 
