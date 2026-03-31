@@ -1,6 +1,5 @@
 import express from "express";
 import { userSignUp, logIn } from "../controllers/userController.js";
-import { isLoggedIn } from "../middleware/isLoggedIn.js";
 
 const router = express.Router();
 // @route   POST /users

@@ -16,6 +16,13 @@ app.use('/users',userRoute);
 // Implimenting post route
 app.use('/posts', postRoute);
 
+// home route
+app.use('/', (req, res) => {
+     res.status(201).json({
+    status: "success",
+    messaage:"Welcome to the home"
+  });
+});
 
 // Implimenting error handler
 app.use(errorHandler)
